@@ -1,0 +1,14 @@
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\bin\Debug\netcoreapp3.1\Exercise2Operators.exe
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\bin\Debug\netcoreapp3.1\Exercise2Operators.deps.json
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\bin\Debug\netcoreapp3.1\Exercise2Operators.runtimeconfig.json
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\bin\Debug\netcoreapp3.1\Exercise2Operators.runtimeconfig.dev.json
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\bin\Debug\netcoreapp3.1\Exercise2Operators.dll
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\bin\Debug\netcoreapp3.1\Exercise2Operators.pdb
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\obj\Debug\netcoreapp3.1\Exercise2Operators.csproj.AssemblyReference.cache
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\obj\Debug\netcoreapp3.1\Exercise2Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\obj\Debug\netcoreapp3.1\Exercise2Operators.AssemblyInfoInputs.cache
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\obj\Debug\netcoreapp3.1\Exercise2Operators.AssemblyInfo.cs
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\obj\Debug\netcoreapp3.1\Exercise2Operators.csproj.CoreCompileInputs.cache
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\obj\Debug\netcoreapp3.1\Exercise2Operators.dll
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\obj\Debug\netcoreapp3.1\Exercise2Operators.pdb
+C:\Users\calla\source\repos\Exercise2Operators\Exercise2Operators\obj\Debug\netcoreapp3.1\Exercise2Operators.genruntimeconfig.cache
